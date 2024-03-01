@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Redonni
+- 👀 I’m interested in realize a code to implement NFC in a card
